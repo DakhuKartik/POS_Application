@@ -1,0 +1,4 @@
+1. POS Application must be easy to use for the cafe employees
+2. It must have show charts of sales of items in the cafe
+3. It must have tables which can be occupied or not occupied
+4. A automatic QR generation for the payment 
